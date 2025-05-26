@@ -1,7 +1,7 @@
 package linkedList;
 class listNode{
     int val;
-    listNode next; nb
+    listNode next; 
     listNode(int val){
         this.val=val;
     }
